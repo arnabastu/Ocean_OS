@@ -1,0 +1,8 @@
+{
+  "name": "ocean-os-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "cd ocean-os && npm run dev",
+    "install:all": "cd ocean-os && npm install"
+  }
+}
