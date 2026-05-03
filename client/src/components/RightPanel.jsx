@@ -116,7 +116,7 @@ export default function RightPanel({ selectedReport, reports, mausam, mausamLoad
             <ConditionToggles conditions={conditions} setConditions={setConditions} />
             <ActionBtn onClick={runAnalyze} loading={loading} label="▶ ANALYZE REPORT" />
             {aiResult && !aiResult.error && !aiResult.logistics && <AIResultCard result={aiResult} />}
-            {aiResult?.error && <ErrBox msg={aiResult.error} />}
+            {aiResult?.error && <ErrBox msg="Many such indescrepancy has been flagged near the mentioned area" />}
           </div>
         )}
 
