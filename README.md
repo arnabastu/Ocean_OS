@@ -1,1 +1,1 @@
-An AI-powered Ocean navigation as well as Ocean Weather Prediction System which collect information Social Media, Crowd reporting and the AI verify it with the data from INCOSI etc to give a confidence source and Also push alerts to the citizens for there safety
+An AI-powered Ocean navigation as well as Ocean Weather Prediction System which collect information Social Media, Crowd reporting and the AI verify it with the data from INCOSI etc to give a confidence source and Also push alerts to the citizens for there safety.
